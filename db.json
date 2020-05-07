@@ -1,6 +1,7 @@
 {
   "promos": [
     {
+        "id": 1,
         "title": "Cashback Rp 150.000",
         "slug": "cashback-rp-150000",
         "vendor": "New Customer",
@@ -8,6 +9,7 @@
         "thumbnail": "/img/promo-banner.jpg"
     },
     {
+        "id": 2,
         "title": "Cashback 20%",
         "slug": "mcdonalds-cashback-20",
         "vendor": "McDonald's",
@@ -15,6 +17,7 @@
         "thumbnail": "/img/promo-banner-2.jpg"
     },
     {
+        "id": 3,
         "title": "Buy 1 Get 1 every Wednesday",
         "slug": "startbucks-buy-1-get-1-every-wednesday",
         "vendor": "Starbucks",
@@ -22,6 +25,7 @@
         "thumbnail": "/img/promo-banner-4.jpg"
     },
     {
+        "id": 4,
         "title": "Cashback Rp 50.000 for Home Appliances",
         "slug": "cashback-rp-50000-for-home-appliances",
         "vendor": "Electonic Solution",
@@ -29,6 +33,7 @@
         "thumbnail": "/img/promo-banner-2.jpg"
     },
     {
+        "id": 5,
         "title": "Cashback Up to Rp 500.00",
         "slug": "cashback-up-to-rp-500000",
         "vendor": "Invite Friends",
