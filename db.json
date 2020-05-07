@@ -1,0 +1,39 @@
+{
+  "promos": [
+    {
+        "title": "Cashback Rp 150.000",
+        "slug": "cashback-rp-150000",
+        "vendor": "New Customer",
+        "valid_date": "September 30, 2020",
+        "thumbnail": "/img/promo-banner.jpg"
+    },
+    {
+        "title": "Cashback 20%",
+        "slug": "mcdonalds-cashback-20",
+        "vendor": "McDonald's",
+        "valid_date": "September 30, 2020",
+        "thumbnail": "/img/promo-banner-2.jpg"
+    },
+    {
+        "title": "Buy 1 Get 1 every Wednesday",
+        "slug": "startbucks-buy-1-get-1-every-wednesday",
+        "vendor": "Starbucks",
+        "valid_date": "September 30, 2020",
+        "thumbnail": "/img/promo-banner-4.jpg"
+    },
+    {
+        "title": "Cashback Rp 50.000 for Home Appliances",
+        "slug": "cashback-rp-50000-for-home-appliances",
+        "vendor": "Electonic Solution",
+        "valid_date": "September 30, 2020",
+        "thumbnail": "/img/promo-banner-2.jpg"
+    },
+    {
+        "title": "Cashback Up to Rp 500.00",
+        "slug": "cashback-up-to-rp-500000",
+        "vendor": "Invite Friends",
+        "valid_date": "September 30, 2020",
+        "thumbnail": "/img/promo-banner-3.jpg"
+    }
+  ]
+}
